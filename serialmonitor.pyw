@@ -1,4 +1,3 @@
-import asyncio
 import serial
 from tkinter import *
 from tkinter import ttk
